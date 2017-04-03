@@ -1,0 +1,21 @@
+{
+  "name": "Prova-Angular",
+  "homepage": "https://github.com/leticiasoarees/Prova-Angular",
+  "authors": [
+    "Letícia Soares Oliveira <leticia_soares.822@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.4",
+    "angular": "^1.6.4"
+  }
+}
